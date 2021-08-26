@@ -20,7 +20,6 @@ const Form = ({addNewTask}) => {
         <MainForm onSubmit={onFormSubmit}>
             <Input
                 value={newTaskContent}
-                className="form__input"
                 placeholder="What should I do?"
                 onChange={({ target }) => setNewTaskContent(target.value)}
             />
