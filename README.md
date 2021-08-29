@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This to do list is a project developed using the react js technology. The following methods were used:
 * useState
 * useEffect
+* useRef
 * own hooks
 * Styled Components
 * Global Style
