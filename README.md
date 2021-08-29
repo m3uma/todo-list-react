@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This to do list is a project developed using the react js technology. The following methods were used:
+* useState
+* useEffect
+* own hooks
+* Styled Components
+* Global Style
+* own themes
+
+**[CHECK IT OUT!](https://m3uma.github.io/todo-list-react/)**
+
 ## Available Scripts
 
 In the project directory, you can run:
