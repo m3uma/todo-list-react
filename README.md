@@ -11,6 +11,7 @@ This to do list is a project developed using the react js technology. The follow
 * Styled Components
 * Global Style
 * own themes
+* Local Storage
 
 **[CHECK IT OUT!](https://m3uma.github.io/todo-list-react/)**
 
