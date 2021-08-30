@@ -8,11 +8,12 @@ This to do list is a project developed using the react js technology. The follow
 * useState
 * useEffect
 * useRef
-* own hooks
+* custom hooks
 * Styled Components
 * Global Style
 * own themes
 * Local Storage
+* Redux
 
 **[CHECK IT OUT!](https://m3uma.github.io/todo-list-react/)**
 
