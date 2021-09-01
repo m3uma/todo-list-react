@@ -9,7 +9,7 @@ const AuthorPage = () => (
             title="Magdalena Czuma"
             body={
                 <>
-                    xddd
+                    here will be info about the author soon...
                 </>
             }
         />
