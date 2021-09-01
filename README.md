@@ -14,6 +14,7 @@ This to do list is a project developed using the react js technology. The follow
 * own themes
 * Local Storage
 * Redux
+* Redux Toolkit
 * Redux Saga
 * React Router
 
