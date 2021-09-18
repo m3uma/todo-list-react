@@ -17,6 +17,7 @@ This to do list is a project developed using the react js technology. The follow
 * Redux Toolkit
 * Redux Saga
 * React Router
+* BEM convention
 
 **[CHECK IT OUT!](https://m3uma.github.io/todo-list-react/)**
 
