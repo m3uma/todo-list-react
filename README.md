@@ -19,6 +19,8 @@ This to do list is a project developed using the react js technology. The follow
 * React Router
 * BEM convention
 
+In the todo list app you can add to-do tasks that are saved in local storage. Mark them as done, delete them, view details about them. You can mark all tasks as done and hide / show completed tasks. You also have the option of filtering tasks, as well as downloading sample tasks to do if you are bored and have no responsibilities. The application is divided into two subpages - the main one with tasks and the "about the author" section.
+
 **[CHECK IT OUT!](https://m3uma.github.io/todo-list-react/)**
 
 ## Available Scripts
